@@ -1,0 +1,26 @@
+nav.navbar.navbar-inverse{
+	border-radius: 0 !important;
+	margin-bottom: 0 !important;
+	padding: 0 15px;
+}
+.container-fluid{
+	width: 100%;
+	padding: 0;
+	position: relative;
+}
+footer{
+	background-color: #3E3D3D;
+	color: #fff;
+}
+.box-principal{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	padding: 0 10%;
+	height: calc(100vh - 91px);
+	overflow-y: auto;
+}
+
+table img{
+	height: 80px;
+}
